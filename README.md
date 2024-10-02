@@ -14,5 +14,7 @@ Process and Repo File Walkthrough:
 
 * sltDemo.py: .py file for the streamlit web-app demo of this project. See below the way to run demo
 
+
+
 Run the following command to run demo:
 streamlit run [path to the 'sltDemo.py' file]
